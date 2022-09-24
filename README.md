@@ -1,7 +1,7 @@
  Created in Stamper 2022.
  
 # Online-Book-Reader-v1
-Second Project with OOP and used pointers.
+Second Project with OOP and also used pointers.
 
  IN this project, I used some oop and pointers to make every thing connected with each other.
  
